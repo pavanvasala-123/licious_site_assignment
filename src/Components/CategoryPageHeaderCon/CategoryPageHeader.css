@@ -1,0 +1,29 @@
+.categoryPage-header-con{
+    background-color: lightpink;
+}
+
+.categoryPage-header-content-con{
+    margin: 0 20%;
+}
+.categoryPage-header-content-con img{
+    width: 100%;
+    /* margin-top: 20px; */
+}
+.categoryPage-header-content-con h3{
+    padding: 20px;
+}
+.sub-categories-con{
+    display: flex;
+    overflow-x: scroll;
+}
+.sub-categories-con::-webkit-scrollbar{
+    display: none;
+}
+
+.sub-cat-item{
+    width: 100px;
+    margin: 20px;
+}
+.sub-cat-item img{
+    width: 100%;
+}

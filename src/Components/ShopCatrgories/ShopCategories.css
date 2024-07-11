@@ -1,0 +1,35 @@
+.heading-container{
+    font-family: sans-serif;
+}
+
+.heading-container p {
+    font-size: 14px;
+    margin-top: 3px;
+}
+.heading-container h3{
+    font-size: 20px;
+}
+.item-con{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    margin-left: 0;
+}
+
+/* .shop-by-categories-con{
+    
+} */
+
+@media (max-width:750px) {
+    
+}
+
+@media (min-width:300px) and (max-width:700px){
+    .heading-container p {
+        font-size: 10px;
+        margin-top: 3px;
+    }
+    .heading-container h3{
+        font-size: 16px;
+    }
+}

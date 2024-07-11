@@ -1,0 +1,5 @@
+.sub-cat-items-con{
+    margin: 10px 20%;
+    display: flex;
+    flex-wrap: wrap;
+}

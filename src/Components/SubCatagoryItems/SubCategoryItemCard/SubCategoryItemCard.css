@@ -1,0 +1,36 @@
+.sub-category-item-card{
+    margin: 30px;
+    padding: 20px;
+    box-shadow: 5px 0px 5px 0px #f0eeee;
+
+   
+}
+.sub-cat-image-con{
+    width: 200px;
+}
+.sub-cat-image-con img{
+    width: 100%;
+}
+
+
+.sub-cat-item-info-con h3{
+    color: black;
+}
+.button-con{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.button-con p{
+    font-size: 10px;
+}
+.button-con button{
+    background-color:#D11243;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 86px;
+    border-radius: 8px;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.customer-reviews-cards-con{
+    display: flex;
+    overflow-x: scroll;
+    margin-top: 20px;
+   
+}
+
+.customer-reviews-cards-con::-webkit-scrollbar{
+    display: none;
+}
