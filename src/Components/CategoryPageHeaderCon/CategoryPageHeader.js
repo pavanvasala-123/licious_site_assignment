@@ -24,7 +24,7 @@ const CategoryPageHeader = () => {
             {
               sub_categories.map((each_sub_cat)=>
                 <>
-                    <div className='sub-cat-item'>
+                    <div className='sub-cat-item' key={each_sub_cat.cat_name}>
                         <img src={each_sub_cat.cat_img} alt={each_sub_cat.cat_name}/>
                         <p>{each_sub_cat.subtitle}</p>
                     </div>

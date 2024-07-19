@@ -14,7 +14,7 @@ const SubCategoryItemCard = ({cat_item}) => {
     }
   return (
     
-    <div className='sub-category-item-card' key={cat_item.variantId}>
+    <div className='sub-category-item-card'>
       <div className='sub-cat-image-con'>
         <img src={cat_item.media.prImage} alt={cat_item.cat_name}/>
       </div>

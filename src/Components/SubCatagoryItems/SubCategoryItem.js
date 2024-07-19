@@ -8,17 +8,17 @@ import {productsList} from '../../Data/data'
 const SubCategoryItem = () => {
 
     const params = useParams()
-    console.log(params.name)
-    const SubcategotyItems = widgetsToShow[0].widgetMappings
     const filteredSubCategory = productsList.filter((eachItem) => eachItem.cat_name == params.name.trim() )
-    // console.log(filteredSubCategory[0].subProductList)
+    console.log(filteredSubCategory.length)
   
-    const sub_categories = filteredSubCategory[0].subProductList
+    const sub_categories = filteredSubCategory[0]?.subProductList
+  
   return (
     <div className='sub-cat-items-con'>
         {
-               sub_categories.map((each_sub_cat)=>
-               <SubCategoryItemCard cat_item = {each_sub_cat}/>
+                filteredSubCategory.length == 0 ? <h1 className='error-message'>No Items Found</h1> :  sub_categories.map((each_sub_cat)=>
+                  <SubCategoryItemCard key = {each_sub_cat.variantId} cat_item = {each_sub_cat}/>
+             
              
               )
             }
