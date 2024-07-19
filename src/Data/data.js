@@ -4742,10 +4742,12 @@ export const popularSearches =  [
                 "msite_category_url": "https://www.m.licious.in/masalas"
             }
         ]
-    
- 
+        
 export  const productsList = [
       {
+        cat_name :"Chicken",
+        "subProductList" : [
+            {
         variantId: 'pr_5785b9065d7e1',
         merchandiseName: 'Chicken Curry Cut - Small Pieces',
         slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
@@ -5499,7 +5501,1022 @@ export  const productsList = [
         }
       }
     ]
+    },
+    {
+       "cat_name": "Ready to cook",
+      "subProductList": [    
+        {
+        variantId: 'pr_5785b9065d7e11',
+        merchandiseName: 'Chicken Curry Cut - Small Pieces',
+        slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+        primaryTag: {
+          name: 'NA'
+        },
+        isCombo: 0,
+        weightAndPieces: {
+          netWeight: '500',
+          grossWeight: '526',
+          pieces: '12-18',
+          uom: 'Weight',
+          serves: '4',
+          unit: 'g',
+          displayWeight: {
+            value: '526 g'
+          }
+        },
+        basePrice: 195,
+        baseDiscount: 8,
+        discountPercentage: 8,
+        discountedPrice: 179,
+        nextAvailableBy: 'Today in 90 mins',
+        hasAddOns: true,
+        deliveryType: 'EXPRESS',
+        media: {
+          prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+          thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+          images: [
+            'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+            'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+            'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+          ]
+        },
+        productDescriptors: {
+          uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+          productShortname: 'Chicken Curry Cut Small Pieces'
+        }
+      },
+      {
+        variantId: 'pr_5785b9065d7e12',
+        merchandiseName: 'Chicken Curry Cut - Small Pieces',
+        slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+        primaryTag: {
+          name: 'NA'
+        },
+        isCombo: 0,
+        weightAndPieces: {
+          netWeight: '500',
+          grossWeight: '526',
+          pieces: '12-18',
+          uom: 'Weight',
+          serves: '4',
+          unit: 'g',
+          displayWeight: {
+            value: '526 g'
+          }
+        },
+        basePrice: 195,
+        baseDiscount: 8,
+        discountPercentage: 8,
+        discountedPrice: 179,
+        nextAvailableBy: 'Today in 90 mins',
+        hasAddOns: true,
+        deliveryType: 'EXPRESS',
+        media: {
+          prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+          thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+          images: [
+            'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+            'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+            'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+          ]
+        },
+        productDescriptors: {
+          uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+          productShortname: 'Chicken Curry Cut Small Pieces'
+        }
+      },
+      {
+        variantId: 'pr_5785b9065d7e13',
+        merchandiseName: 'Chicken Curry Cut - Small Pieces',
+        slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+        primaryTag: {
+          name: 'NA'
+        },
+        isCombo: 0,
+        weightAndPieces: {
+          netWeight: '500',
+          grossWeight: '526',
+          pieces: '12-18',
+          uom: 'Weight',
+          serves: '4',
+          unit: 'g',
+          displayWeight: {
+            value: '526 g'
+          }
+        },
+        basePrice: 195,
+        baseDiscount: 8,
+        discountPercentage: 8,
+        discountedPrice: 179,
+        nextAvailableBy: 'Today in 90 mins',
+        hasAddOns: true,
+        deliveryType: 'EXPRESS',
+        media: {
+          prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+          thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+          images: [
+            'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+            'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+            'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+          ]
+        },
+        productDescriptors: {
+          uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+          productShortname: 'Chicken Curry Cut Small Pieces'
+        }
+      }
+    ]
+
+    },
+    {
+        "cat_name": "Fish & Seafood",
+       "subProductList": [    
+         {
+         variantId: 'pr_5785b9065d7e0',
+         merchandiseName: 'Chicken Curry Cut - Small Pieces',
+         slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+         primaryTag: {
+           name: 'NA'
+         },
+         isCombo: 0,
+         weightAndPieces: {
+           netWeight: '500',
+           grossWeight: '526',
+           pieces: '12-18',
+           uom: 'Weight',
+           serves: '4',
+           unit: 'g',
+           displayWeight: {
+             value: '526 g'
+           }
+         },
+         basePrice: 195,
+         baseDiscount: 8,
+         discountPercentage: 8,
+         discountedPrice: 179,
+         nextAvailableBy: 'Today in 90 mins',
+         hasAddOns: true,
+         deliveryType: 'EXPRESS',
+         media: {
+           prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           images: [
+             'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+             'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+             'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+           ]
+         },
+         productDescriptors: {
+           uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+           productShortname: 'Chicken Curry Cut Small Pieces'
+         }
+       },
+       {
+         variantId: 'pr_5785b9065d7e1',
+         merchandiseName: 'Chicken Curry Cut - Small Pieces',
+         slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+         primaryTag: {
+           name: 'NA'
+         },
+         isCombo: 0,
+         weightAndPieces: {
+           netWeight: '500',
+           grossWeight: '526',
+           pieces: '12-18',
+           uom: 'Weight',
+           serves: '4',
+           unit: 'g',
+           displayWeight: {
+             value: '526 g'
+           }
+         },
+         basePrice: 195,
+         baseDiscount: 8,
+         discountPercentage: 8,
+         discountedPrice: 179,
+         nextAvailableBy: 'Today in 90 mins',
+         hasAddOns: true,
+         deliveryType: 'EXPRESS',
+         media: {
+           prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           images: [
+             'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+             'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+             'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+           ]
+         },
+         productDescriptors: {
+           uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+           productShortname: 'Chicken Curry Cut Small Pieces'
+         }
+       },
+       {
+         variantId: 'pr_5785b9065d7e2',
+         merchandiseName: 'Chicken Curry Cut - Small Pieces',
+         slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+         primaryTag: {
+           name: 'NA'
+         },
+         isCombo: 0,
+         weightAndPieces: {
+           netWeight: '500',
+           grossWeight: '526',
+           pieces: '12-18',
+           uom: 'Weight',
+           serves: '4',
+           unit: 'g',
+           displayWeight: {
+             value: '526 g'
+           }
+         },
+         basePrice: 195,
+         baseDiscount: 8,
+         discountPercentage: 8,
+         discountedPrice: 179,
+         nextAvailableBy: 'Today in 90 mins',
+         hasAddOns: true,
+         deliveryType: 'EXPRESS',
+         media: {
+           prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           images: [
+             'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+             'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+             'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+           ]
+         },
+         productDescriptors: {
+           uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+           productShortname: 'Chicken Curry Cut Small Pieces'
+         }
+       }
+     ]
+ 
+     },
+     {
+       cat_name:"Mutton",
+       "subProductList": [    
+         {
+         variantId: 'pr_5785b9065d7A1',
+         merchandiseName: 'Chicken Curry Cut - Small Pieces',
+         slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+         primaryTag: {
+           name: 'NA'
+         },
+         isCombo: 0,
+         weightAndPieces: {
+           netWeight: '500',
+           grossWeight: '526',
+           pieces: '12-18',
+           uom: 'Weight',
+           serves: '4',
+           unit: 'g',
+           displayWeight: {
+             value: '526 g'
+           }
+         },
+         basePrice: 195,
+         baseDiscount: 8,
+         discountPercentage: 8,
+         discountedPrice: 179,
+         nextAvailableBy: 'Today in 90 mins',
+         hasAddOns: true,
+         deliveryType: 'EXPRESS',
+         media: {
+           prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           images: [
+             'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+             'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+             'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+           ]
+         },
+         productDescriptors: {
+           uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+           productShortname: 'Chicken Curry Cut Small Pieces'
+         }
+       },
+       {
+         variantId: 'pr_5785b9065d7B2',
+         merchandiseName: 'Chicken Curry Cut - Small Pieces',
+         slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+         primaryTag: {
+           name: 'NA'
+         },
+         isCombo: 0,
+         weightAndPieces: {
+           netWeight: '500',
+           grossWeight: '526',
+           pieces: '12-18',
+           uom: 'Weight',
+           serves: '4',
+           unit: 'g',
+           displayWeight: {
+             value: '526 g'
+           }
+         },
+         basePrice: 195,
+         baseDiscount: 8,
+         discountPercentage: 8,
+         discountedPrice: 179,
+         nextAvailableBy: 'Today in 90 mins',
+         hasAddOns: true,
+         deliveryType: 'EXPRESS',
+         media: {
+           prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           images: [
+             'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+             'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+             'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+           ]
+         },
+         productDescriptors: {
+           uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+           productShortname: 'Chicken Curry Cut Small Pieces'
+         }
+       },
+       {
+         variantId: 'pr_5785b9065d7B3',
+         merchandiseName: 'Chicken Curry Cut - Small Pieces',
+         slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+         primaryTag: {
+           name: 'NA'
+         },
+         isCombo: 0,
+         weightAndPieces: {
+           netWeight: '500',
+           grossWeight: '526',
+           pieces: '12-18',
+           uom: 'Weight',
+           serves: '4',
+           unit: 'g',
+           displayWeight: {
+             value: '526 g'
+           }
+         },
+         basePrice: 195,
+         baseDiscount: 8,
+         discountPercentage: 8,
+         discountedPrice: 179,
+         nextAvailableBy: 'Today in 90 mins',
+         hasAddOns: true,
+         deliveryType: 'EXPRESS',
+         media: {
+           prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+           images: [
+             'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+             'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+             'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+           ]
+         },
+         productDescriptors: {
+           uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+           productShortname: 'Chicken Curry Cut Small Pieces'
+         }
+       }
+     ]
+ 
+     },
+     {
+        "cat_name": "Liver & More",
+        "subProductList": [    
+          {
+          variantId: 'pr_5785b9065d7A12',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7B23',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7B34',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        }
+      ]
   
+      },
+      {
+        "cat_name":"Prawns & Crabs",
+        "subProductList": [    
+          {
+          variantId: 'pr_5785b9065d7AB12',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7AB23',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7AB34',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        }
+      ]
+  
+      },
+      {
+        
+        "cat_name": "Eggs",
+        "subProductList": [    
+          {
+          variantId: 'pr_5785b9065d7AB12',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7AB23',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7AB34',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        }
+      ]
+  
+      },
+      {
+        
+        "cat_name":" Crispy Snacks",
+        "subProductList": [    
+          {
+          variantId: 'pr_5785b9065d7AB12',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7AB23',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7AB34',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        }
+      ]
+  
+      },
+      {
+        
+        "cat_name":"Kebab & Biryani",
+        "subProductList": [    
+          {
+          variantId: 'pr_5785b9065d7AB12',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7AB23',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        },
+        {
+          variantId: 'pr_5785b9065d7AB34',
+          merchandiseName: 'Chicken Curry Cut - Small Pieces',
+          slug: 'chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1',
+          primaryTag: {
+            name: 'NA'
+          },
+          isCombo: 0,
+          weightAndPieces: {
+            netWeight: '500',
+            grossWeight: '526',
+            pieces: '12-18',
+            uom: 'Weight',
+            serves: '4',
+            unit: 'g',
+            displayWeight: {
+              value: '526 g'
+            }
+          },
+          basePrice: 195,
+          baseDiscount: 8,
+          discountPercentage: 8,
+          discountedPrice: 179,
+          nextAvailableBy: 'Today in 90 mins',
+          hasAddOns: true,
+          deliveryType: 'EXPRESS',
+          media: {
+            prImage: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            thumbnail: 'https://assets.licious.in/OMS-ProductMerchantdising/6fc425d4-2c62-058c-9718-64a2a92161c5/original/1716979971362.png',
+            images: [
+              'https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png',
+              'https://assets.licious.in/OMS-ProductMerchantdising/892fc432-9459-ab90-1217-e6833d011b45/original/1716979985392.jpg',
+              'https://assets.licious.in/OMS-ProductMerchantdising/ab6cf7d2-f0d1-86b1-6d4a-4abe0f492bb8/original/1716979989683.jpg'
+            ]
+          },
+          productDescriptors: {
+            uspDescription: 'Juicy bone-in & boneless chicken for delectable curries',
+            productShortname: 'Chicken Curry Cut Small Pieces'
+          }
+        }
+      ]
+  
+      }
+    ]
+  
+
+
             
      
     

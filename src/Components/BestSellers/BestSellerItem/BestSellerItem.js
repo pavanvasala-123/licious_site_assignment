@@ -1,22 +1,29 @@
 import React from 'react'
 import './BestSellerItem.css'
-import { useDispatch } from 'react-redux'
-import { addItem } from '../../../AppStore/cartSlice'
+import AddIcon from '@mui/icons-material/Add';
+import RemoveIcon from '@mui/icons-material/Remove';
+
+import { addItem, decreaseQuantity } from '../../../AppStore/cartSlice'
+import { useDispatch, useSelector } from 'react-redux'
+
 
 const BestSellerItem = ({item}) => {
   const {merchandiseName,media,weightAndPieces,basePrice,discountedPrice,baseDiscount,variantId} = item
   
-  const dispath = useDispatch()
+  const dispatch = useDispatch()
+    const handleCart = (variantId) =>{
+      // console.log(item)
+      dispatch(addItem({id:variantId,basePrice:basePrice,merchandiseName:merchandiseName,discountedPrice:discountedPrice ,weightAndPieces:weightAndPieces}))
+    }
 
-  const addTocart = () =>{
-      console.log(item)
-      dispath(addItem(item))
-  }
+    const cartItems = useSelector((state)=> state.cart.cart_products)
+
+  
   return (
     <div className='best-seller-item-con'>
       <div className='image-con'>
         <img src={media.prImage} alt=''/>
-        <button onClick={()=>addTocart(variantId)}>+</button>
+        <button onClick={()=>handleCart(variantId)}>+</button>
       </div>
       <div className='item-info-con'>
         <h5>{merchandiseName}</h5>
@@ -26,7 +33,7 @@ const BestSellerItem = ({item}) => {
           <span>Serves {weightAndPieces.serves}</span>
         </div>
         <div className='price-con'>
-          <span className='discounted-price'>{discountedPrice}</span>
+          <p className='discounted-price'>₹{discountedPrice}</p>
           <span className='base-price'>₹{basePrice}</span>
           <span className='discountPercentage'>{baseDiscount}% off</span>
         </div>

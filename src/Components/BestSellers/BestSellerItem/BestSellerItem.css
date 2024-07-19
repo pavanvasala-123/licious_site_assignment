@@ -28,10 +28,12 @@
     background-color: white;
     border: 1px solid rgb(226, 217, 217);
     border-radius: 5px;
+    cursor: pointer;
 
 }
 .item-info-con{
     margin-bottom: 20px;
+    text-align:left;
 }
 .item-info-con h5{
     margin-bottom: 8px;
@@ -45,10 +47,13 @@
 }
 .price-con {
     margin-top: 10px;
+    /* margin-left: -10px; */
 }
 .discounted-price{
     font-size: 16px;
+    text-align: left;
     font-weight: 500;
+    margin-left: -22px;
 }
 .discountPercentage{
     margin-left: 5px;

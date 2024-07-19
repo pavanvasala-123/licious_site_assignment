@@ -4,6 +4,7 @@ import Banner from '../Banner/Banner'
 import ShopCategories from '../ShopCatrgories/ShopCategories'
 import Bestsellers from '../BestSellers/Bestsellers'
 import CustomerReviews from '../CustomerReviews/CustomerReviews'
+import Cart from '../Cart/Cart'
 
 
 const Home = () => {

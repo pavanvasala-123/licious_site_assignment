@@ -4,7 +4,7 @@ import { cities ,popularSearches} from '../../Data/data'
 
 const Footer = () => {
 const products = popularSearches.products
-console.log(products)
+// console.log(products)
   return (
     <div className='footer-con'>
       {/* <div className='horizontal_line'>
