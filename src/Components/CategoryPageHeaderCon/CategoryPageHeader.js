@@ -11,7 +11,7 @@ const CategoryPageHeader = () => {
   const params = useParams()
   // console.log(params.name)
 
-  const filteredSubCategory = SubcategotyItems.filter((eachItem) => eachItem.category_details.cat_name == params.name)
+  const filteredSubCategory = SubcategotyItems.filter((eachItem) => eachItem.category_details.cat_name === params.name)
   // console.log(filteredSubCategory[0].category_details)
 
   const sub_categories = filteredSubCategory[0].category_details.sub_categories
