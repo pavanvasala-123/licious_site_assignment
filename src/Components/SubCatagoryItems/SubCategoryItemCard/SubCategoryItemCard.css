@@ -1,7 +1,8 @@
 .sub-category-item-card{
     margin: 20px;
-    padding: 20px;
+    /* padding: 20px; */
     box-shadow: 2px 2px 5px #888888;
+    border-radius: 10px;
    
 }
 .sub-cat-image-con{
@@ -9,9 +10,12 @@
 }
 .sub-cat-image-con img{
     width: 100%;
+    border-radius: 10px;
 }
 
-
+.sub-cat-item-info-con{
+     padding: 20px;
+}
 .sub-cat-item-info-con h5{
     color: black;
     width: 200px;
