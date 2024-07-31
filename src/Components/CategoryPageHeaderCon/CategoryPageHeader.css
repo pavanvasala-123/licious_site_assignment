@@ -1,6 +1,7 @@
 .categoryPage-header-con{
     background-color: lightpink;
     margin-top: 100px;
+   
 }
 
 .categoryPage-header-content-con{
@@ -8,7 +9,8 @@
 }
 .categoryPage-header-content-con img{
     width: 100%;
-    /* margin-top: 20px; */
+   
+    
 }
 .categoryPage-header-content-con h3{
     padding: 20px;
@@ -20,11 +22,52 @@
 .sub-categories-con::-webkit-scrollbar{
     display: none;
 }
+.heading-btn-con{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
+}
+.heading-btn-con button{
+    color:white;
+    background-color:red;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+}
 .sub-cat-item{
-    width: 100px;
+    max-width:100px;
     margin: 20px;
+   
 }
 .sub-cat-item img{
     width: 100%;
+    object-fit: cover;
+  
 }
+.sub-cat-item p{
+    width: 100%;
+    text-align: center;
+}
+
+@media (max-width:750px){
+    .categoryPage-header-content-con{
+        margin: 0 5%;
+    }
+    .categoryPage-header-content-con img{
+       width: 100%;
+       height: 2rem;
+       object-fit: cover;
+        -o-object-fit: contain;
+    }
+    .categoryPage-header-content-con h3{
+        padding: 10px;
+    }
+    .sub-cat-item{
+        margin: 10px;
+    }
+}
+

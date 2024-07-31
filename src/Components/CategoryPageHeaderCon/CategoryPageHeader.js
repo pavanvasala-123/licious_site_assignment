@@ -1,9 +1,10 @@
 import React from 'react'
 import './CategoryPageHeader.css'
 import {widgetsToShow}  from '../../Data/data'
-import { useParams } from 'react-router-dom'
+import { useNavigate, useParams } from 'react-router-dom'
 
 const CategoryPageHeader = () => {
+  const navigate = useNavigate()
 
   const SubcategotyItems = widgetsToShow[0].widgetMappings
   // console.log(SubcategotyItems)
@@ -14,11 +15,17 @@ const CategoryPageHeader = () => {
   // console.log(filteredSubCategory[0].category_details)
 
   const sub_categories = filteredSubCategory[0].category_details.sub_categories
+  const goToHomePage = () =>{
+    navigate("/")
+  }
 
   return (
     <div className='categoryPage-header-con'>
       <div className='categoryPage-header-content-con'>
-          <h3>{params.name}</h3>
+         <div className='heading-btn-con'>
+              <h3>{params.name}</h3>
+              <button onClick={goToHomePage}>Home</button>
+         </div>
           <img src='https://assets.licious.in/oms/8839eb27-ddc1-bdd7-2f01-eff5a3ee1eb5/original/1716532118557.png' alt='chickenImage'/>
           <div className='sub-categories-con'>
             {
