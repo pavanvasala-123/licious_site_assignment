@@ -4,6 +4,7 @@
 .cat-item{
     margin: 20px 20px 20px 0;
     cursor: pointer;
+    width:120px;
 }
 .cat-item p {
     font-size: 14px;
@@ -13,9 +14,10 @@
     .cat-item{
         margin: 10px 80px 20px 0px;
         cursor: pointer;
+        width: 72px;
     }
     .cat-item img{
-        width: 72px;
+        width: 100px;
     }
 }
 
